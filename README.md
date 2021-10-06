@@ -1,5 +1,5 @@
 ## Project
-React.js
+Build with React.js
 
 ![screenshot](images/screenshot-birthday-list.png)
 
